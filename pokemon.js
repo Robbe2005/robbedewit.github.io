@@ -3,7 +3,7 @@ let app = new Vue({
     name: "Pokemon",
     data() {
         return {
-            id: 104,
+            id: 69,
             pokemon: null
         }
     },

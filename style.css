@@ -1,0 +1,11 @@
+body{
+    background: #A6B6C4 none no-repeat scroll 0px 0px;
+  
+}
+.badge{
+        border-radius: 25px;
+        background: #73AD21;
+        padding: 20px;
+        width: 200px;
+        height: 40px;
+      }
