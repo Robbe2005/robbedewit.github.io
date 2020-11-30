@@ -2,6 +2,7 @@ body{
     background: #A6B6C4 none no-repeat scroll 0px 0px;
   
 }
+
 .badge{
         border-radius: 25px;
         background: #73AD21;
@@ -9,3 +10,4 @@ body{
         width: 200px;
         height: 40px;
       }
+      
