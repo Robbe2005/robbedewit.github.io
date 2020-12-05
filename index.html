@@ -13,6 +13,7 @@
      <div id='vue'>
         <button v-on:click="prev" >vorige</button>
         <button v-on:click="next" >volgende</button>
+        <input v-model="id" v-on:input="getPokemon(id)">
         <h1 class="midden">pokédex</h1>
         <h2>{{name}}</h2>
         <h2>pokédex nummer: {{id}}</h2>
